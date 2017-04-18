@@ -1,6 +1,7 @@
 [package]
-name = "GlutinSample"
+name = "glutin_sample"
 version = "0.1.0"
 authors = ["codec-abc"]
 
 [dependencies]
+glutin = "0.7.4"
