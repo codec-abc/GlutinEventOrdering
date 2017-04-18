@@ -1,0 +1,6 @@
+[package]
+name = "GlutinSample"
+version = "0.1.0"
+authors = ["codec-abc"]
+
+[dependencies]
