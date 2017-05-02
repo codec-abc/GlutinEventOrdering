@@ -1,5 +1,3 @@
-keyup event
-key scancode is 28, key virtual key code is Return
 keydown event
 key scancode is 42, key virtual key code is LShift
 keydown event

@@ -1,0 +1,40 @@
+keydown event
+key scancode is 50, key virtual key code is LShift
+text input event
+character is H
+keydown event
+key scancode is 43, key virtual key code is H
+keyup event
+key scancode is 50, key virtual key code is LShift
+keyup event
+key scancode is 43, key virtual key code is H
+text input event
+character is e
+keydown event
+key scancode is 26, key virtual key code is E
+keyup event
+key scancode is 26, key virtual key code is E
+text input event
+character is l
+keydown event
+key scancode is 46, key virtual key code is L
+keyup event
+key scancode is 46, key virtual key code is L
+text input event
+character is l
+keydown event
+key scancode is 46, key virtual key code is L
+keyup event
+key scancode is 46, key virtual key code is L
+text input event
+character is o
+keydown event
+key scancode is 32, key virtual key code is O
+keyup event
+key scancode is 32, key virtual key code is O
+text input event
+character is 
+keydown event
+key scancode is 36, key virtual key code is Return
+keyup event
+key scancode is 36, key virtual key code is Return
